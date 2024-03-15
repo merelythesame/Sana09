@@ -20,3 +20,15 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+li{
+    list-style: none;
+}
+
+ul.mylist > li:nth-child(2n+1){
+    background-color:red;
+}
+
+p{
+    font-style: italic;
+}
