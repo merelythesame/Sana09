@@ -18,8 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Sana\Sana09\Sana09
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Sana/Sana09/Sana09/Views/Home/ErrorLogger.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvckxvZ2dlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Sana/Sana09/Sana09/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Sana/Sana09/Sana09/Views/Home/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmZvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Sana/Sana09/Sana09/Views/Home/Privacy.cshtml]

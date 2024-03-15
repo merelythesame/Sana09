@@ -23,6 +23,16 @@ namespace Sana09.Controllers
             return View();
         }
 
+        public IActionResult Info()
+        {
+            return View();
+        }
+
+        public IActionResult Errorlogger()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
